@@ -1,10 +1,10 @@
 clear
 termux-setup-storage
-echo ""
-cd ..
+echo "cd .."
 
-echo ""
-cd ..
+
+echo "cd .."
+
 
 echo ""
 cd .. 
