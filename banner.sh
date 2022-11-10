@@ -4,7 +4,11 @@ echo ""
 cd ..
 
 echo ""
-$HOME
+cd ..
+
+echo ""
+cd .. 
+
 echo ""
 cd usr
 echo ""
