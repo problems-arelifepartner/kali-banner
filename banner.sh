@@ -1,8 +1,10 @@
 clear
 termux-setup-storage
-
 echo ""
 cd ..
+
+echo ""
+$HOME
 echo ""
 cd usr
 echo ""
