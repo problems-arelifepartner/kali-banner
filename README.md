@@ -1,7 +1,7 @@
 # kali-banner
 Kali Linux banner
 
-##COMMANDS
+# #COMMANDS#
 
 $git clone https://github.com/problems-arelifepartner/kali-banner
 
